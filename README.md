@@ -4,7 +4,6 @@
 I’m recently starting my journey in cybersecurity and pursuing certifications to build a career as a Cyber Security Analyst. I’m passionate about learning and excited to develop the skills needed to help protect digital world.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 Aspiring Cybersecurity Analyst actively pursuing industry-recognized certifications to build a solid foundation in network security, risk management, and threat mitigation. Passionate about protecting systems, data, and infrastructure from evolving cyber threats. Eager to contribute analytical skills, attention to detail, and proactive approach to a cybersecurity team, with the ultimate goal of securing critical assets and ensuring robust defense strategies.
 
@@ -18,7 +17,7 @@ Aspiring Cybersecurity Analyst actively pursuing industry-recognized certificati
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | <a href="https://docs.google.com/document/d/1J90cat6i3X3_Z5iyvPTGu2j2YCDLk5EmtpwVqyDlF5o/edit?usp=sharing)">Detection Lab</a>|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
