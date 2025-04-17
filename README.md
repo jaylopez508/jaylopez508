@@ -9,7 +9,7 @@ I’m recently starting my journey in cybersecurity and pursuing certifications 
 Aspiring Cybersecurity Analyst actively pursuing industry-recognized certifications to build a solid foundation in network security, risk management, and threat mitigation. Passionate about protecting systems, data, and infrastructure from evolving cyber threats. Eager to contribute analytical skills, attention to detail, and proactive approach to a cybersecurity team, with the ultimate goal of securing critical assets and ensuring robust defense strategies.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
