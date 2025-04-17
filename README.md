@@ -1,7 +1,7 @@
 # Hello, I'm Jay
 <a href="https://www.linkedin.com/in/jaylopez508/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m recently starting my journey in cybersecurity and pursuing certifications to build a career as a Cyber Security Analyst. I’m passionate about learning and excited to develop the skills needed to help protect digital world.
+I’m recently starting my journey in cybersecurity and pursuing certifications to build a career as a Cyber Security Analyst. I’m passionate about learning and excited to develop the skills needed to help protect the digital world.
 
 ## Objective
 
